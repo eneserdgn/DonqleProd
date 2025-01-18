@@ -1,0 +1,13 @@
+{
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "regions": ["fra1"],
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://kttunddqecoxkjgzalxn.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt0dHVuZGRxZWNveGtqZ3phbHhuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzcxNjY2OTAsImV4cCI6MjA1Mjc0MjY5MH0.pzpoysVZtv8liaqxHqoDgBmKe6eUMXvbGMJKvPF9R5U"
+  },
+  "rootDirectory": "donqle"
+} 
